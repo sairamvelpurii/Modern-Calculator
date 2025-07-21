@@ -1,4 +1,4 @@
-/* Base body styling */
+
 body {
     background-color: #f8f5e4; /* soft beige */
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -6,7 +6,7 @@ body {
     padding: 0;
 }
 
-/* Centered heading */
+
 .heading {
     font-size: 3rem;
     text-align: center;
@@ -15,7 +15,7 @@ body {
     margin-bottom: 20px;
 }
 
-/* Styled fieldset */
+
 .fieldet-class {
     font-size: 1.4rem;
     display: flex;
@@ -46,7 +46,7 @@ input[type="text"] {
     outline-color: darkgreen;
 }
 
-/* Buttons container */
+
 .btns {
     display: flex;
     justify-content: center;
@@ -55,7 +55,7 @@ input[type="text"] {
     margin-top: 30px;
 }
 
-/* Calculate button */
+
 #btn-1 {
     font-size: 1rem;
     padding: 12px 30px;
@@ -71,7 +71,7 @@ input[type="text"] {
     background-color: #218838;
 }
 
-/* Reset button */
+
 .btn-2 {
     font-size: 1rem;
     padding: 12px 30px;
@@ -87,7 +87,7 @@ input[type="text"] {
     background-color: #b02a37;
 }
 
-/* Result display */
+
 .result {
     margin-top: 30px;
     text-align: center;
